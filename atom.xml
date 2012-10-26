@@ -4,7 +4,7 @@
   <title><![CDATA[Lunch Happenings]]></title>
   <link href="http://sbartlett.github.com/atom.xml" rel="self"/>
   <link href="http://sbartlett.github.com/"/>
-  <updated>2012-10-26T17:02:52-06:00</updated>
+  <updated>2012-10-26T17:09:24-06:00</updated>
   <id>http://sbartlett.github.com/</id>
   <author>
     <name><![CDATA[Scooter]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[VICTORY]]></title>
-    <link href="http://sbartlett.github.com/blog/2012/10/26/victory/"/>
-    <updated>2012-10-26T16:52:00-06:00</updated>
-    <id>http://sbartlett.github.com/blog/2012/10/26/victory</id>
-    <content type="html"><![CDATA[<p>VICTORY!!!!!!</p>
-]]></content>
-  </entry>
   
 </feed>
